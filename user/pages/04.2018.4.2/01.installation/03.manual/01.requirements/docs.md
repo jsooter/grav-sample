@@ -4,8 +4,6 @@ taxonomy:
     category: docs
 ---
 
-# Step 1: Requirements
-
 ## System Requirements
 The GitPrime application runs many different processes in the background that are fairly resource intensive.  Because of this, we recommend the following system requirements for a bare-metal server or virtual machine:
 
@@ -21,7 +19,7 @@ We recommend running GitPrime Enterprise on Ubuntu Linux 16.04.x.  However, the 
 - Must have a kernel version of 3.10 or higher
 - Must support Docker Enterprise 1.13.1-34 (and above) or Docker Community Edition 17.03.1-ce and above.
 
-For more information about OS requirements, please see Replicated's list of requirements at https://www.replicated.com/docs/distributing-an-application/supported-operating-systems/.
+For more information about OS requirements, please see Replicated's list of requirements at [https://www.replicated.com/docs/distributing-an-application/supported-operating-systems/](https://www.replicated.com/docs/distributing-an-application/supported-operating-systems/).
 
 ## Calculating Required Storage
 
